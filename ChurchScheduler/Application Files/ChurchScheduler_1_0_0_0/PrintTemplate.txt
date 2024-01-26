@@ -1,0 +1,66 @@
+------------------------------------------------
+      CHURCH SCHEDULE - Week of [WEEK_OF_DATE]
+------------------------------------------------
+
+Sunday Morning
+********************
+
+First Song        - [SM_FIRST_SONG]
+
+Reading           - [SM_READING]
+
+Opening Prayer    - [SM_OPENING_PRAYER]
+
+Lead Singing      - [SM_LEAD_SINGING]
+
+Lord's Supper     - [SM_LORD'S_SUPPER]
+
+Serve Table       - [SM_SERVE_TABLE]
+
+Serve Table       - [SM_SERVE_TABLE]
+
+Serve Table       - [SM_SERVE_TABLE]
+
+Serve Table       - [SM_SERVE_TABLE]
+
+Serve Table       - [SM_SERVE_TABLE]
+
+Prayer Bread      - [SM_PRAYER_BREAD]
+
+Prayer Wine       - [SM_PRAYER_WINE]
+
+Prayer Offering   - [SM_PRAYER_OFFERING]
+
+Announcements     - [SM_ANNOUNCEMENTS]
+
+First Prayer      - [SM_FIRST_PRAYER]
+
+Closing Prayer    - [SM_CLOSING_PRAYER]
+
+
+Sunday Night
+********************
+
+Lead Singing      - [SN_LEAD_SINGING]
+
+Opening Prayer    - [SN_OPENING_PRAYER]
+
+Lord's Supper     - [SN_LORD'S_SUPPER]
+
+Closing Prayer    - [SN_CLOSING_PRAYER]
+
+Lock Building     - [SN_LOCK_BUILDING]
+
+
+Wednesday Night
+********************
+
+Lead Singing      - [WN_LEAD_SINGING]
+
+Reading           - [WN_READING]
+
+Opening Prayer    - [WN_OPENING_PRAYER]
+
+Closing Prayer    - [WN_CLOSING_PRAYER]
+
+Lock Building     - [WN_LOCK_BUILDING]
