@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<configuration>
+    <configSections>
+        <sectionGroup name="userSettings" type="System.Configuration.UserSettingsGroup, System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" >
+            <section name="ChurchScheduler.Properties.Settings" type="System.Configuration.ClientSettingsSection, System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" allowExeDefinition="MachineToLocalUser" requirePermission="false" />
+        </sectionGroup>
+    </configSections>
+    <connectionStrings>
+        <add name="ChurchScheduler.Properties.Settings.ChurchSchedulerConnectionString"
+            connectionString="Data Source=(LocalDB)\MSSQLLocalDB;AttachDbFilename=C:\Databases\ChurchScheduler.mdf;Integrated Security=True;Connect Timeout=5"
+            providerName="System.Data.SqlClient" />
+    </connectionStrings>
+    <userSettings>
+        <ChurchScheduler.Properties.Settings>
+            <setting name="ErrorLogFile" serializeAs="String">
+                <value>..\ErrorLog.txt</value>
+            </setting>
+            <setting name="PrintTemplate" serializeAs="String">
+                <value />
+            </setting>
+        </ChurchScheduler.Properties.Settings>
+    </userSettings>
+</configuration>
